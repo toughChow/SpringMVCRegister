@@ -9,7 +9,7 @@
 			<a href="user/simple/register">简单用户注册</a>
 		</h3>
 		<h3>
-			<a href="user/simple/register">默认用户注册</a>
+			<a href="user/default/register">默认用户注册</a>
 		</h3>
 	</div>
 </body>
